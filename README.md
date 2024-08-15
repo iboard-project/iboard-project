@@ -1,4 +1,5 @@
-## Development of Autonomous Artificial Intelligence Systems for Corporate Management
+#About the iBoard project:
+## [Development of Autonomous Artificial Intelligence Systems for Corporate Management](https://arxiv.org/abs/2407.17588)
 ## [Elements Of Legislation For Artificial Intelligence Systems](https://arxiv.org/abs/2407.10305)
 
 <!--
