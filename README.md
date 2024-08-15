@@ -1,5 +1,5 @@
 ## Development of Autonomous Artificial Intelligence Systems for Corporate Management
-## Elements Of Legislation For Artificial Intelligence Systems
+## [Elements Of Legislation For Artificial Intelligence Systems](https://arxiv.org/abs/2407.10305)
 
 <!--
 **iboard-project/iboard-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
