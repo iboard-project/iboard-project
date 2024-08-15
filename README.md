@@ -1,4 +1,5 @@
-## Hi there 👋
+## Development of Autonomous Artificial Intelligence Systems for Corporate Management
+## Elements Of Legislation For Artificial Intelligence Systems
 
 <!--
 **iboard-project/iboard-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
