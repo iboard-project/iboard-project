@@ -1,7 +1,7 @@
 # About the iBoard project:
 ## [Development of Autonomous Artificial Intelligence Systems for Corporate Management](https://arxiv.org/abs/2407.17588)
 ## [Elements Of Legislation For Artificial Intelligence Systems](https://arxiv.org/abs/2407.10305)
-
+## [Fundamentals of legislation in autonomous artificial intelligence systems](https://www.dependability.ru/jour/article/view/601)
 <!--
 **iboard-project/iboard-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
