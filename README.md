@@ -4,7 +4,7 @@
 ## [Fundamentals of legislation for autonomous artificial intelligence systems](https://www.dependability.ru/jour/article/view/601)
 ## [Fundamentals of Modeling Algorithmic Decisions in Corporate Management](https://artsoc.jes.su/s207751800032184-1-1/)
 ## [Modeling of Autonomous Corporate Management Systems based on Synthetic Data](https://www.researchgate.net/publication/385251762_MODELING_OF_AUTONOMOUS_CORPORATE_MANAGEMENT_SYSTEMS_BASED_ON_SYNTHETIC_DATA)
-## [Game theory for autonomous AI systems in corporate governance] ([https://www.dependability.ru/jour/article/view/662/883](https://www.dependability.ru/jour/article/view/662)
+## [Game theory for autonomous AI systems in corporate governance] (https://www.dependability.ru/jour/article/view/662)
 <!--
 **iboard-project/iboard-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
