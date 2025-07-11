@@ -6,6 +6,7 @@
 ## [Modeling of Autonomous Corporate Management Systems based on Synthetic Data](https://www.researchgate.net/publication/385251762_MODELING_OF_AUTONOMOUS_CORPORATE_MANAGEMENT_SYSTEMS_BASED_ON_SYNTHETIC_DATA)
 ## [Game theory for autonomous AI systems in corporate governance](https://www.dependability.ru/jour/article/view/662)
 ## [The prototype model for making legitimate and ethical decisions by autonomous artificial intelligence systems in corporate governance](https://www.researchgate.net/publication/393588246_The_prototype_model_for_making_legitimate_and_ethical_decisions_by_autonomous_artificial_intelligence_systems_in_corporate_governance)
+## [Analysis of interfaces informativeness issues in the development of autonomous artificial intelligence systems for corporate management](https://www.researchgate.net/publication/393588165_Analysis_of_interfaces_informativeness_issues_in_the_development_of_autonomous_artificial_intelligence_systems_for_corporate_management)
 <!--
 **iboard-project/iboard-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
