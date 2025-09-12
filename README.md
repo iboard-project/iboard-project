@@ -1,4 +1,5 @@
 # About the iBoard project:
+## [Board Machines](https://boardmachines.com/)
 ## [Development of Autonomous Artificial Intelligence Systems for Corporate Management](https://arxiv.org/abs/2407.17588)
 ## [Elements Of Legislation For Artificial Intelligence Systems](https://arxiv.org/abs/2407.10305)
 ## [Fundamentals of legislation for autonomous artificial intelligence systems](https://www.dependability.ru/jour/article/view/601)
