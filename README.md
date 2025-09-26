@@ -10,6 +10,7 @@
 ## [Analysis of interfaces informativeness issues in the development of autonomous artificial intelligence systems for corporate management](https://www.researchgate.net/publication/393588165_Analysis_of_interfaces_informativeness_issues_in_the_development_of_autonomous_artificial_intelligence_systems_for_corporate_management)
 ## [Development of management systems using artificial intelligence systems and machine learning methods for boards of directors (preprint, unofficial translation)](https://arxiv.org/abs/2508.03769)
 ## [Development of management systems using artificial intelligence systems and machine learning methods for boards of directors (presentation)](https://www.researchgate.net/publication/395305391_Development_of_management_systems_using_artificial_intelligence_systems_and_machine_learning_methods_for_boards_of_directors_presentation)
+## [Development of Management Systems Using Artificial Intelligence and Machine Learning Methods for Boards of Directors (preprint)]([https://www.researchgate.net/publication/395305391_Development_of_management_systems_using_artificial_intelligence_systems_and_machine_learning_methods_for_boards_of_directors_presentation](https://www.researchgate.net/publication/395527963_Development_of_Management_Systems_Using_Artificial_Intelligence_and_Machine_Learning_Methods_for_Boards_of_Directors_preprint)
 <!--
 **iboard-project/iboard-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
